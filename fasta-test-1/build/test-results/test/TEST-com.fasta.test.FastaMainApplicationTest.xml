@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fasta.test.FastaMainApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-28T17:16:49" hostname="uday-PC" time="26.525">
+  <properties/>
+  <testcase name="testFileProcess" classname="com.fasta.test.FastaMainApplicationTest" time="26.525"/>
+  <system-out><![CDATA[Sun Oct 28 22:46:49 IST 2018::1.fasta.gz
+Sun Oct 28 22:47:01 IST 2018::2.fasta.gz
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
